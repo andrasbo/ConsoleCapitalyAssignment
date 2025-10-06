@@ -1,0 +1,23 @@
+12
+E Wellington_Heights
+T 1000
+E Sterling_Manor
+E Hamilton_Court
+J 2000
+T 1500
+E Regency_Park
+E Victoria_Estates
+J 500
+T 2000
+E Chancellor's_Hill
+J 1500
+4
+T Anna
+G Bela
+C Cecil
+T Denes
+7 10 6 12 3 9 8 11 2 5 10 6 12 4 7
+8 2 9 11 5 6 7 12 4 10 8 3 9 11 2
+6 7 5 10 8 12 4 3 11 9 7 6 5 10 12 2
+8 11 9 4 7 6 3 12 10 5 9 11 2 8 7 6 12
+4 3 10 9 5 11 8 6 2 7 12 10 4 9 5 11 3 8 6 12 7 2 2 2 2 2 2 8 6 12 7 3 10 4 9 11 2

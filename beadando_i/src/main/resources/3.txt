@@ -1,0 +1,10 @@
+6
+E Wellington_Heights
+E Sterling_Manor
+E Hamilton_Court
+E Regency_Park
+E Victoria_Estates
+E Chancellor's_Hill
+2
+T Anna
+G Bela

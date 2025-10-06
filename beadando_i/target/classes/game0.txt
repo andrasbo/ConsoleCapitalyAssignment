@@ -1,0 +1,18 @@
+12
+H
+T 1000
+H
+H
+J 2000
+T 1500
+H
+H
+J 500
+T 2000
+H
+J 1500
+4
+Anna
+Béla
+Cecil
+Dénes

@@ -1,0 +1,17 @@
+com\hyczbo\beadando_i\field\Field.class
+com\hyczbo\beadando_i\player\Tactical.class
+com\hyczbo\beadando_i\field\Tax.class
+com\hyczbo\beadando_i\field\Level.class
+com\hyczbo\beadando_i\Game.class
+com\hyczbo\beadando_i\field\Estate$1.class
+com\hyczbo\beadando_i\player\Greedy.class
+com\hyczbo\beadando_i\field\Estate.class
+com\hyczbo\beadando_i\field\FullyDevelopedEstateException.class
+com\hyczbo\beadando_i\InvalidGameParametersException.class
+com\hyczbo\beadando_i\field\Jackpot.class
+com\hyczbo\beadando_i\Main.class
+com\hyczbo\beadando_i\player\BankrupcyException.class
+com\hyczbo\beadando_i\GameRandom.class
+com\hyczbo\beadando_i\player\Player.class
+com\hyczbo\beadando_i\player\Careful.class
+com\hyczbo\beadando_i\GameSimulation.class
