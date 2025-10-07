@@ -4,4 +4,3 @@ T 2000
 2
 T Anna
 G Bela
-2 2
